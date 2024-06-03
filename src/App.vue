@@ -81,5 +81,19 @@ export default {
   .juegos__table {
     margin: 0 auto;
   }
-</style>
 
+  /* Estilos para los botones */
+  button {
+    background-color: #a5d6a7; /* Fondo verde pastel */
+    color: #2e7d32; /* Color de texto */
+    border: 1px solid #2e7d32; /* Borde verde oscuro */
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave */
+  }
+
+  button:hover {
+    background-color: #76ff03; /* Fondo fluor al pasar el cursor */
+  }
+</style>
