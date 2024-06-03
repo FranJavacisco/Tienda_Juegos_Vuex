@@ -50,15 +50,27 @@ export default {
 </script>
 
 <style>
-
   .juegos {
     text-align: center;
+    background-color: #e0f7e9; /* Fondo pastel verde claro */
+    padding: 1rem;
+    border-radius: 8px;
   }
 
   table,
   th,
   td {
-    border: 1px solid black;
+    border: 1px solid #b2dfdb; /* Borde pastel verde */
+  }
+
+  th {
+    background-color: #a5d6a7; /* Fondo verde pastel para los encabezados */
+    color: #2e7d32; /* Color de texto verde más oscuro */
+  }
+
+  td {
+    background-color: #c8e6c9; /* Fondo verde pastel para las celdas */
+    color: #388e3c; /* Color de texto verde más oscuro */
   }
 
   td,
@@ -69,12 +81,5 @@ export default {
   .juegos__table {
     margin: 0 auto;
   }
-/* #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-} */
 </style>
+
