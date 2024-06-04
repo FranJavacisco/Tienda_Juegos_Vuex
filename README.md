@@ -2,6 +2,7 @@
 ![Captura de pantalla 2024-06-03 192529](https://github.com/FranJavacisco/Tienda_Juegos_Vuex/assets/134477809/00acfab2-0a2b-4ab5-8d40-f72edab7729d)
 
 # Desarrollo de una Tienda de Juegos con Vuex
+https://franjavacisco.github.io/Tienda_Juegos_Vuex/
 
 
 Este proyecto se centra en el desarrollo de una tienda de juegos utilizando Vue.js y Vuex para administrar el estado global de la aplicación. La aplicación permite mostrar una lista de juegos y modificar su stock a través de acciones en Vuex.
